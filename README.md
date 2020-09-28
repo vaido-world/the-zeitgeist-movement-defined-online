@@ -16,6 +16,6 @@ Now all that you need to do it paste the generated link from the clipboard by us
 or any other method known, such as right clicking on an empty input text field and selecting "**Paste*"   
 
 ### A small issue that I noticed
-Selecting a paragraph and trying to generate a link from that, might not work out for some reasons.  
+Selecting a paragraph and trying to generate a link from that, sometimes might not work out for some reasons.  
 Instead it is better to select as smaller portion and then try again.
 
