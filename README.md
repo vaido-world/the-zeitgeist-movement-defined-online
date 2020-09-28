@@ -16,7 +16,7 @@ Now all that you need to do it paste the generated link from the clipboard by us
 or any other method known, such as right clicking on an empty input text field and selecting "**Paste*"  
 
 An example:  
-https://vaido.world/the-zeitgeist-movement-defined-online/#pf6:~:text=Isaac%20Newton%20perhaps%20put%20this%20reality%20best%20with%20the%20statement%3A
+https://vaido.world/the-zeitgeist-movement-defined-online/#pfb4:~:text=system.%20While%20scarcity%20in%20absolute%20terms,of%20the%20market%20system's%20allocation%20methods.
 
 ### A small issue that I noticed
 Selecting a paragraph and trying to generate a link from that, sometimes might not work out for some reasons.  
