@@ -25,4 +25,5 @@ That can be done without any Chrome extension helpers.
 Here is an example: 
 https://vaido.world/the-zeitgeist-movement-defined-online/#pf6
 
-This is a link to a sixth page of the PDF file, that is 2th page on the The Zeitgeist Movement Defined Book itself.
+This is a link to a sixth page of the PDF file,  
+that is 2th page on the The Zeitgeist Movement Defined Book itself.  
