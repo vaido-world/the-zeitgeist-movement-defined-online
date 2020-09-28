@@ -19,3 +19,10 @@ or any other method known, such as right clicking on an empty input text field a
 Selecting a paragraph and trying to generate a link from that, sometimes might not work out for some reasons.  
 Instead it is better to select as smaller portion and then try again.
 
+### Linking to specific page on the book
+Sometimes all you need is a link to specific page on the book.   
+That can be done without any Chrome extension helpers.  
+Here is an example: 
+https://vaido.world/the-zeitgeist-movement-defined-online/#pf6
+
+This is a link to a sixth page of the PDF file, that is 2th page on the The Zeitgeist Movement Defined Book itself.
