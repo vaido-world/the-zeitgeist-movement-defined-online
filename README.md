@@ -18,6 +18,10 @@ or any other method known, such as right clicking on an empty input text field a
 An example:  
 https://vaido.world/the-zeitgeist-movement-defined-online/#pfb4:~:text=system.%20While%20scarcity%20in%20absolute%20terms,of%20the%20market%20system's%20allocation%20methods.
 
+#### Update:
+It happens that Highlighting of the words might not happen most of the time.  
+That might be due to %20 (whitespace) encoding that is automatically added.
+
 ### A small issue that I noticed
 Selecting a paragraph and trying to generate a link from that, sometimes might not work out for some reasons.  
 Instead it is better to select as smaller portion and then try again.
