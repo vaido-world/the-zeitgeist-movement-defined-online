@@ -5,7 +5,7 @@ Converted from PDF Using Free Online service "convertio.co"
 https://convertio.co/download/2ed0cb8f1fea13ca7da90baf26232d0d0e60e0/
 
 
-## Linking to a parts of the book
+## Linking to a parts of the book (Kind of buggy)
 Making links to specific fragments of the text can be done using an extension from Google named **Link to Text Fragment**
 https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg?hl=en
 
