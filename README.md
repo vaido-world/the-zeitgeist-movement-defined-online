@@ -26,7 +26,7 @@ That might be due to %20 (whitespace) encoding that is automatically added to th
 Selecting a paragraph and trying to generate a link from that, sometimes might not work out for some reasons.  
 Instead it is better to select as smaller portion and then try again.
 
-### Linking to specific page on the book  
+### However: Linking to specific page on the book has no issues
 Sometimes all you need is a link to specific page on the book.     
 That can be done without any Chrome extension helpers.   
 **Here is an example:**
