@@ -13,16 +13,19 @@ Simply select a small portion of text and press right click mouse button.
 Then press **Copy Link to Selected Text**.  
 The Link to the portion of text will be in the clipboard from now on.   
 Now all that you need to do it paste the generated link from the clipboard by using `CTRL+V` combination   
-or any other method known, such as right clicking on an empty input text field and selecting "**Paste*"   
+or any other method known, such as right clicking on an empty input text field and selecting "**Paste*"  
+
+An example:  
+https://vaido.world/the-zeitgeist-movement-defined-online/#pf6:~:text=Isaac%20Newton%20perhaps%20put%20this%20reality%20best%20with%20the%20statement%3A
 
 ### A small issue that I noticed
 Selecting a paragraph and trying to generate a link from that, sometimes might not work out for some reasons.  
 Instead it is better to select as smaller portion and then try again.
 
-### Linking to specific page on the book
-Sometimes all you need is a link to specific page on the book.   
-That can be done without any Chrome extension helpers.  
-Here is an example: 
+### Linking to specific page on the book  
+Sometimes all you need is a link to specific page on the book.     
+That can be done without any Chrome extension helpers.   
+**Here is an example:**
 https://vaido.world/the-zeitgeist-movement-defined-online/#pf6
 
 This is a link to a sixth page of the PDF file,  
