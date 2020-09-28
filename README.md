@@ -20,7 +20,7 @@ https://vaido.world/the-zeitgeist-movement-defined-online/#pfb4:~:text=system.%2
 
 #### Update:
 It happens that Highlighting of the words might not happen most of the time.  
-That might be due to %20 (whitespace) encoding that is automatically added.
+That might be due to %20 (whitespace) encoding that is automatically added to the generated link.
 
 ### A small issue that I noticed
 Selecting a paragraph and trying to generate a link from that, sometimes might not work out for some reasons.  
